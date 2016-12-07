@@ -1,0 +1,59 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title-bold: NABA
+title-normal: 2016/2017
+email: hello@marcosecchi.it
+description: MEDIA DESIGN E ARTI MULTIMEDIALI<br /> APPLICAZIONI DIGITALI PER LE ARTI VISIVE II
+baseurl: "/download/lab_game_design_2016" # the subpath of your site, e.g. /blog
+url: "http://thebitcave.com" # the base hostname & protocol for your site
+author: Marco Secchi
+street_address: Via C. Darwin 20
+city: Milano
+state:
+zip_code: 20143
+country: ITALIA
+phone:
+website: http://marcosecchi.it
+
+# Plugins
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+#  - jemoji
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/marcosecchi
+gitlab_url: https://gitlab.com/marcosecchi
+googleplus_url: https://plus.google.com/u/0/+marcosecchi
+instagram_url:
+linkedin_url: https://it.linkedin.com/in/secchimarco
+pinterest_url: https://it.pinterest.com/marcosecchi/
+slack_url:
+twitter_url: https://twitter.com/the_bit_cave
+
+# Build settings
+markdown: kramdown
+
+# Plugin: jekyll-seo-tag
+twitter:
+  username: the_bit_cave
+# Add one or more of the following
+facebook:
+  app_id:
+  publisher:
+  admins:
+logo:
+google_site_verification:
