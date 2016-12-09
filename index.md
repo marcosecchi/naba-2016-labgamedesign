@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: LAB GAME DESIGN
+landing-title: LAB GAME DESIGN - Unity3D
 description:
 image:
 author:
