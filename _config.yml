@@ -10,7 +10,7 @@ title-bold: NABA
 title-normal: 2016/2017
 email: hello@marcosecchi.it
 description: MEDIA DESIGN E ARTI MULTIMEDIALI<br /> APPLICAZIONI DIGITALI PER LE ARTI VISIVE II
-baseurl: "/naba-labgamedesign-2016" # the subpath of your site, e.g. /blog
+baseurl: "/naba-2016-labgamedesign" # the subpath of your site, e.g. /blog
 url: "https://marcosecchi.github.io" # the base hostname & protocol for your site
 author: Marco Secchi
 street_address: Via C. Darwin 20
